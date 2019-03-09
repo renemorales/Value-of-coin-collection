@@ -3,7 +3,7 @@ This Program converts the number of quarters, nickels, dimes, dollars into penni
 
 # What I Learned
 
-I was able to get more practice in how to compute and how to find values.
+I was able to get more practice on how to compute and how to find values.
 
 For Example,
 
